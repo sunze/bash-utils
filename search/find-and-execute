@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# 查找文件并执行
+find  filepath -maxdepth 0 -exec basename {} \;
+
