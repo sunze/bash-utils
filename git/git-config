@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# git修改当前项目的用户名和密码
+git remote set-url origin https://用户名:密码@github.com/用户名/项目名.git
+
